@@ -82,7 +82,7 @@ a:hover { text-decoration: underline; }
   /* My image:
      https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1600&q=60
   */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("file:///Users/havenkvello/Downloads/lis351-web/images/IMG_2577.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("IMG_2577.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
